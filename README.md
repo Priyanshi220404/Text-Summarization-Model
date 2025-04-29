@@ -10,11 +10,10 @@ This project implements a text summarization pipeline using pretrained Transform
  - Extract the ZIP file and navigate to the folder
 
 ### 🔧 Dependencies
-
-##These will be installed within the notebook
-transformers
-accelerate
-datasets
+**These will be installed within the notebook**
+- transformers
+- accelerate
+- datasets
 
 
 ## 🛠️ Project Structure
